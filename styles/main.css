@@ -1,0 +1,9 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+#container {
+  height: 80vh;
+  margin: 10vh auto;
+  width: 80vw;
+}
