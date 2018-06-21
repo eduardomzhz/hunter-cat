@@ -15,7 +15,7 @@ class Game {
 
     this.resize();
 
-    this.cat = new Entity({ color: '#447FA3' });
+    this.cat = new Cat({ color: '#447FA3' });
     this.entities = [
       new Entity({ position: { x: 350, y: 200 }, color: '#992211' }), 
       new Entity({ position: { x: 580, y: 200 }, color: '#992211' })
